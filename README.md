@@ -2,6 +2,8 @@ Welcome to the AI Virtual Painter! This application allows you to paint on a vir
 
 Feel free to make pull requests
 
+
+
 Dependencies:
 
 1)First download Open-Cv python in the cmd shell using pip install opencv-python
@@ -10,6 +12,8 @@ Dependencies:
 
 3)pip install numpy
 
+
+
 Usage:
 
 1)Clone the repository https://github.com/akaash2005/Air-Drawing-.git
@@ -17,6 +21,8 @@ Usage:
 2)Go to the folder where the files are stored and run the file named RemD.py
 
 3)To start drawing raise your index finger and move it around to start drawing
+
+
 
 
 Functionalities:
@@ -31,6 +37,10 @@ Functionalities:
 
 5)To take screenshots press S and they will be stored in the default folder which can be set by you.
 
+
+
 FOR FURTHER INSTRUCTIONS USE THE INSTRUCTION MANUAL...
+
+
 
 HAVE FUN DRAWING 
